@@ -1,4 +1,4 @@
-This app allows consumers to split expenses with friends. If a group needs to share the cost of a particular bill, it ensures that anyone who pays is reimbursed the correct amount and with a minimal number of transactions.
+# This app allows consumers to split expenses with friends. If a group needs to share the cost of a particular bill, it ensures that anyone who pays is reimbursed the correct amount and with a minimal number of transactions.
 
 
 # Prerequisite
